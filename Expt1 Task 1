@@ -1,17 +1,17 @@
 /*
-Mohammad Ayan Khan
-28 / 251M031
-Dif - F
+Azhar Zameer Shaikh
+28 / 251P105
+Div - D
 */
 #include <stdio.h>
 
 int main () {
 
-    printf("\nName = Mohammad Ayan Khan.");
-    printf("\nAge = 19.");
-    printf("\nClass = FE / Mechanical.");
-    printf("\nDiv = F.");
-    printf("\nUIN = 251M031.");
+    printf("\nName = Azhar Zameer Shaikh.");
+    printf("\nAge = 18.");
+    printf("\nClass = FE / Computer Engineering.");
+    printf("\nDiv = D.");
+    printf("\nUIN = 251P105.");
 
     return 0;
 }
